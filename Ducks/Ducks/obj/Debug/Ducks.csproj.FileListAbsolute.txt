@@ -1,0 +1,7 @@
+C:\Users\Tim\source\repos\Ducks\Ducks\bin\Debug\Ducks.exe.config
+C:\Users\Tim\source\repos\Ducks\Ducks\bin\Debug\Ducks.exe
+C:\Users\Tim\source\repos\Ducks\Ducks\bin\Debug\Ducks.pdb
+C:\Users\Tim\source\repos\Ducks\Ducks\obj\Debug\Ducks.csprojResolveAssemblyReference.cache
+C:\Users\Tim\source\repos\Ducks\Ducks\obj\Debug\Ducks.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\Ducks\Ducks\obj\Debug\Ducks.exe
+C:\Users\Tim\source\repos\Ducks\Ducks\obj\Debug\Ducks.pdb
