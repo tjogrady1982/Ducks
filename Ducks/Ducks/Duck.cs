@@ -39,5 +39,10 @@ namespace Ducks
         {
             return WeightInGrams;
         }
+
+        public override string ToString()
+        {
+            return $"Duck weighing {WeightInGrams} grams";
+        }
     }
 }
